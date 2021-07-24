@@ -11,7 +11,7 @@ Included are two files, one for the main sketch,
 and one for the player class.
 This project uses the `W`, `A`, and `D` keys for movement,
 where `W` is jump, and `A` and `D` move left and right.
-Additionally, `SPACE` also pauses the game.
+Additionally, `SPACE` starts and pauses the game.
 
 ## License
 This really doesn't need a license,
